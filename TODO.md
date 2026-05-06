@@ -1,0 +1,5 @@
+- pi-hole på TRUSTED for DNS-filtrering
+- syslog-server som tar imot pfSense-logger
+- Snort/Suricata, faget har starta inspeksjon-bolken
+- backup-skript som dumper pfSense-konfigen automatisk
+- bytte ASUS-routeren med en switch som faktisk støtter VLAN
