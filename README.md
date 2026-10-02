@@ -2,7 +2,7 @@
 
 This is my home lab where I use pfSense to split one network into three zones with VLANs: TRUSTED, IOT and GUEST. Every zone has its own subnet, its own DHCP and its own firewall rules. The goal was to learn how network segmentation works in practice, not only in the slides from class.
 
-I built this lab next to the Cisco networking part of my studies. An earlier version also had a physical ASUS access point and WireGuard for remote access (see the notes in `notes/`). This README goes through the setup in VMware Workstation step by step, with screenshots of every step, and explains why I did things the way I did.
+An earlier version also had a physical ASUS access point and WireGuard for remote access (see the notes in `notes/`). This README goes through the setup in VMware Workstation step by step, with screenshots of every step, and explains why I did things the way I did.
 
 ## Contents
 
